@@ -1,0 +1,1 @@
+# Lista_01_Fabio_Algoritmos_Operadores_JS_2021.1
